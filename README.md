@@ -1,1 +1,2 @@
 # Why-a-Coding-Standard-is-Necessary
+Coding standards are a set of standards and guidelines, used by programmers, which describe how code should be developed. Coding standards are usually established in a group of developers before starting work on a project, to help all the team members understand their team members source code. Coding standards are also established by companies for their employees so there is less confusion when they are understanding/editing a collegues code. 
